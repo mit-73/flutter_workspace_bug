@@ -1,0 +1,12 @@
+.dart_tool/
+
+.pub/
+
+.idea/
+.vagrant/
+.sconsign.dblite
+.svn/
+.vscode/
+
+# FVM Version Cache
+.fvm/
